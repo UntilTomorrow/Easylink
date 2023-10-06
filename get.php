@@ -4,7 +4,7 @@ $iterations = 11;
 $url = 'http://192.168.100.31:8080/scanlog/all/paging';
 
 // SN
-$dataList = ['616202023281348', '66208023321713', '66204023290111'];
+$dataList = ['xxx', 'xxx', 'xxx'];
 $errorLog = 'error_log.txt';
 $snIndex = 0;
 
